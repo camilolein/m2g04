@@ -1,0 +1,12 @@
+body{
+			background: whitesmoke;
+		font-family: 'Nabla', cursive;
+		}
+		#contenedor{
+			width: 900px;
+			padding: 20px;
+			background: black;
+			margin: 0 auto;
+			float: center;
+			color: whitesmoke;
+		}
